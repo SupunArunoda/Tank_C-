@@ -253,6 +253,15 @@
       <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\water44.xnb</Output>
       <Time>2015-12-16T01:01:11.5196281-08:00</Time>
     </Item>
+    <Item>
+      <Source>background55.jpg</Source>
+      <Name>background55</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\background55.xnb</Output>
+      <Time>2015-12-17T01:11:24.7775467-08:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <ContentProjectGUID>{081BC006-18A9-4CBB-A0D5-E0F537BFE9F9}</ContentProjectGUID>

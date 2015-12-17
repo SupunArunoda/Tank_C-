@@ -92,8 +92,8 @@ namespace TankGUIwithXNA
         protected override void Initialize()
         {
 
-            graphics.PreferredBackBufferWidth = 800;
-            graphics.PreferredBackBufferHeight = 600;
+            graphics.PreferredBackBufferWidth = 650;
+            graphics.PreferredBackBufferHeight = 650;
             graphics.IsFullScreen = false;
             graphics.ApplyChanges();
             Window.Title = "Battle Force";
@@ -111,7 +111,7 @@ namespace TankGUIwithXNA
             backgroundTexture2 = Content.Load<Texture2D>("background22");
             backgroundTexture3 = Content.Load<Texture2D>("background33");
             backgroundTexture4 = Content.Load<Texture2D>("background44");
-           // backgroundTexture5 = Content.Load<Texture2D>("background55");
+            backgroundTexture5 = Content.Load<Texture2D>("background55");
             stoneTexture1 = Content.Load<Texture2D>("stone11");
             stoneTexture2 = Content.Load<Texture2D>("stone22");
             stoneTexture3 = Content.Load<Texture2D>("stone33");
@@ -140,8 +140,8 @@ namespace TankGUIwithXNA
             ///<initializing sreen parameters>
             screenWidth = device.PresentationParameters.BackBufferWidth;
             screenHeight = device.PresentationParameters.BackBufferHeight;
-            blockWidth = (screenWidth * 3 / 5) / MessageHandler.mapSize;
-            blockHeight = (screenHeight - 20) / MessageHandler.mapSize;
+            blockWidth = (screenWidth *2) / MessageHandler.mapSize;
+            blockHeight = (2*screenHeight ) / MessageHandler.mapSize;
         }
 
         protected override void UnloadContent()
@@ -196,8 +196,8 @@ namespace TankGUIwithXNA
         {
 
 
-            gameScreen = new Rectangle(20, 20, screenWidth * 3 / 5, screenHeight - 20);
-            spriteBatch.Draw(backgroundTexture4, gameScreen, Color.White);//change background texture number here..
+            gameScreen = new Rectangle(0,0,screenWidth , screenHeight );
+            spriteBatch.Draw(backgroundTexture5, gameScreen, Color.White);//change background texture number here..
 
 
 
