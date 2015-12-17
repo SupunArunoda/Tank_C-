@@ -92,8 +92,8 @@ namespace TankGUIwithXNA
         protected override void Initialize()
         {
 
-            graphics.PreferredBackBufferWidth = 650;
-            graphics.PreferredBackBufferHeight = 650;
+            graphics.PreferredBackBufferWidth = 951;
+            graphics.PreferredBackBufferHeight = 600;
             graphics.IsFullScreen = false;
             graphics.ApplyChanges();
             Window.Title = "Battle Force";
@@ -140,7 +140,7 @@ namespace TankGUIwithXNA
             ///<initializing sreen parameters>
             screenWidth = device.PresentationParameters.BackBufferWidth;
             screenHeight = device.PresentationParameters.BackBufferHeight;
-            blockWidth = (screenWidth *2) / MessageHandler.mapSize;
+            blockWidth = (screenWidth *4/3) / MessageHandler.mapSize;
             blockHeight = (2*screenHeight ) / MessageHandler.mapSize;
         }
 
