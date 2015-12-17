@@ -13,6 +13,7 @@ namespace TankGUIwithXNA
     {
         public void connect()
         {
+            //this method is used to create a connection between gameserver and game client
 
             try
             {

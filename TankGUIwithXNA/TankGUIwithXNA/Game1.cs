@@ -93,7 +93,7 @@ namespace TankGUIwithXNA
         {
 
             graphics.PreferredBackBufferWidth = 951;
-            graphics.PreferredBackBufferHeight = 600;
+            graphics.PreferredBackBufferHeight = 610;
             graphics.IsFullScreen = false;
             graphics.ApplyChanges();
             Window.Title = "Battle Force";
@@ -204,7 +204,8 @@ namespace TankGUIwithXNA
             for (int i = 0; i < MessageHandler.mapSize; i++)
                 for (int j = 0; j < MessageHandler.mapSize; j++)
                 {
-                    Console.WriteLine(gameMatrix[i,j]);
+                    
+                    
                     
                     
                         if(gameMatrix[i, j]=="s")

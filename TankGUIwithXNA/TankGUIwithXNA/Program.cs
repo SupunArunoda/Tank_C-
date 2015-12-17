@@ -5,6 +5,7 @@ namespace TankGUIwithXNA
 #if WINDOWS || XBOX
     static class Program
     {
+
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
@@ -15,10 +16,10 @@ namespace TankGUIwithXNA
             {
                  Connection cnt = new Connection();
                   cnt.connect();
-                  //Thread t = new Thread(MessageReceiver.getMessage());
+           
             
                // Console.WriteLine("I'm in the initialize method");
-                //MessageReceiver msg = new MessageReceiver();
+                //thread created for receiving messages
                 Thread t = new Thread(MessageReceiver.getMessage);
                 
                 

@@ -14,6 +14,7 @@ namespace TankGUIwithXNA
         
             public static void getMessage()
             {
+
                 TcpListener serverListner = null;
                 try
                 {
