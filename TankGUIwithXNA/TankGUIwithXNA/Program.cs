@@ -20,6 +20,8 @@ namespace TankGUIwithXNA
                // Console.WriteLine("I'm in the initialize method");
                 //MessageReceiver msg = new MessageReceiver();
                 Thread t = new Thread(MessageReceiver.getMessage);
+                
+                
                 t.Start();
                 game.Run();
             }

@@ -209,13 +209,15 @@ namespace TankGUIwithXNA
                         {
                             case "0":
                                 {
+                                Console.WriteLine("Player 0 details updating");
                                     map[Convert.ToInt32(coordinates[1]), Convert.ToInt32(coordinates[0])] = "p0";
                                     continue;
                                 }
 
                             case "1":
                                 {
-                                    map[Convert.ToInt32(coordinates[1]), Convert.ToInt32(coordinates[0])] = "p1";
+                                Console.WriteLine("Player 1 details updating");
+                                map[Convert.ToInt32(coordinates[1]), Convert.ToInt32(coordinates[0])] = "p1";
                                     continue;
                                 }
                             case "2":
@@ -241,7 +243,7 @@ namespace TankGUIwithXNA
                         }
                         else
                         {
-                            Console.WriteLine("udyuftbg7uaydiuyb");
+                            Console.WriteLine("coins updating");
                             temp[Convert.ToInt32(coins[i].y), Convert.ToInt32(coins[i].x)] = "g";
                         }
 
@@ -311,7 +313,9 @@ namespace TankGUIwithXNA
                       //  Console.WriteLine("Life---------" + lifes[i])life_pack;
                     }
                 }
-            }
+            Game1.setGameMatrix(map);
+
+        }
 
             public void updateCoins()
             {

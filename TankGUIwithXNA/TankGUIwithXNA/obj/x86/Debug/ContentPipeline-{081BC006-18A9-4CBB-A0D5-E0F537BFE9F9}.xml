@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\background11.xnb</Output>
-      <Time>2015-12-15T21:18:50.249532+05:30</Time>
+      <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\background11.xnb</Output>
+      <Time>2015-12-16T01:01:11.3776498-08:00</Time>
     </Item>
     <Item>
       <Source>background22.jpg</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\background22.xnb</Output>
-      <Time>2015-12-15T21:19:09.8269665+05:30</Time>
+      <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\background22.xnb</Output>
+      <Time>2015-12-16T01:01:11.3932564-08:00</Time>
     </Item>
     <Item>
       <Source>background33.jpg</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\background33.xnb</Output>
-      <Time>2015-12-15T21:19:09.8269665+05:30</Time>
+      <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\background33.xnb</Output>
+      <Time>2015-12-16T01:01:11.4102527-08:00</Time>
     </Item>
     <Item>
       <Source>background44.jpg</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\background44.xnb</Output>
-      <Time>2015-12-15T21:19:09.8450666+05:30</Time>
+      <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\background44.xnb</Output>
+      <Time>2015-12-16T01:01:11.4102527-08:00</Time>
     </Item>
     <Item>
       <Source>brick11.jpg</Source>
@@ -43,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\brick11.xnb</Output>
-      <Time>2015-12-15T21:19:09.8475666+05:30</Time>
+      <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\brick11.xnb</Output>
+      <Time>2015-12-16T01:01:11.4258785-08:00</Time>
     </Item>
     <Item>
       <Source>brick22.jpg</Source>
@@ -52,8 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\brick22.xnb</Output>
-      <Time>2015-12-15T21:19:09.8475666+05:30</Time>
+      <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\brick22.xnb</Output>
+      <Time>2015-12-16T01:01:11.4258785-08:00</Time>
     </Item>
     <Item>
       <Source>brick33.jpg</Source>
@@ -61,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\brick33.xnb</Output>
-      <Time>2015-12-15T21:19:09.8631667+05:30</Time>
+      <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\brick33.xnb</Output>
+      <Time>2015-12-16T01:01:11.4258785-08:00</Time>
     </Item>
     <Item>
       <Source>brick44.png</Source>
@@ -70,8 +70,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\brick44.xnb</Output>
-      <Time>2015-12-15T21:19:09.8631667+05:30</Time>
+      <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\brick44.xnb</Output>
+      <Time>2015-12-16T01:01:11.441503-08:00</Time>
     </Item>
     <Item>
       <Source>coin11.png</Source>
@@ -79,8 +79,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\coin11.xnb</Output>
-      <Time>2015-12-15T21:19:09.8787667+05:30</Time>
+      <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\coin11.xnb</Output>
+      <Time>2015-12-16T01:01:11.441503-08:00</Time>
     </Item>
     <Item>
       <Source>coin22.png</Source>
@@ -88,8 +88,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\coin22.xnb</Output>
-      <Time>2015-12-15T21:19:09.8787667+05:30</Time>
+      <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\coin22.xnb</Output>
+      <Time>2015-12-16T01:01:11.441503-08:00</Time>
     </Item>
     <Item>
       <Source>coin33.png</Source>
@@ -97,8 +97,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\coin33.xnb</Output>
-      <Time>2015-12-15T21:19:09.8943667+05:30</Time>
+      <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\coin33.xnb</Output>
+      <Time>2015-12-16T01:01:11.441503-08:00</Time>
     </Item>
     <Item>
       <Source>coin44.png</Source>
@@ -106,8 +106,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\coin44.xnb</Output>
-      <Time>2015-12-15T21:19:09.8943667+05:30</Time>
+      <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\coin44.xnb</Output>
+      <Time>2015-12-16T01:01:11.441503-08:00</Time>
     </Item>
     <Item>
       <Source>life11.png</Source>
@@ -115,8 +115,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\life11.xnb</Output>
-      <Time>2015-12-15T21:19:09.9099668+05:30</Time>
+      <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\life11.xnb</Output>
+      <Time>2015-12-16T01:01:11.441503-08:00</Time>
     </Item>
     <Item>
       <Source>life22.png</Source>
@@ -124,8 +124,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\life22.xnb</Output>
-      <Time>2015-12-15T21:19:09.9099668+05:30</Time>
+      <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\life22.xnb</Output>
+      <Time>2015-12-16T01:01:11.441503-08:00</Time>
     </Item>
     <Item>
       <Source>life33.png</Source>
@@ -133,8 +133,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\life33.xnb</Output>
-      <Time>2015-12-15T21:19:09.9099668+05:30</Time>
+      <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\life33.xnb</Output>
+      <Time>2015-12-16T01:01:11.441503-08:00</Time>
     </Item>
     <Item>
       <Source>life44.png</Source>
@@ -142,8 +142,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\life44.xnb</Output>
-      <Time>2015-12-15T21:19:09.9255668+05:30</Time>
+      <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\life44.xnb</Output>
+      <Time>2015-12-16T01:01:11.4571485-08:00</Time>
     </Item>
     <Item>
       <Source>stone11.jpg</Source>
@@ -151,8 +151,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\stone11.xnb</Output>
-      <Time>2015-12-15T21:19:09.9255668+05:30</Time>
+      <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\stone11.xnb</Output>
+      <Time>2015-12-16T01:01:11.4727524-08:00</Time>
     </Item>
     <Item>
       <Source>stone22.jpg</Source>
@@ -160,8 +160,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\stone22.xnb</Output>
-      <Time>2015-12-15T21:19:09.9255668+05:30</Time>
+      <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\stone22.xnb</Output>
+      <Time>2015-12-16T01:01:11.4727524-08:00</Time>
     </Item>
     <Item>
       <Source>stone33.jpg</Source>
@@ -169,8 +169,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\stone33.xnb</Output>
-      <Time>2015-12-15T21:19:09.9411668+05:30</Time>
+      <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\stone33.xnb</Output>
+      <Time>2015-12-16T01:01:11.4883791-08:00</Time>
     </Item>
     <Item>
       <Source>stone44.jpg</Source>
@@ -178,8 +178,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\stone44.xnb</Output>
-      <Time>2015-12-15T21:19:09.9411668+05:30</Time>
+      <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\stone44.xnb</Output>
+      <Time>2015-12-16T01:01:11.4883791-08:00</Time>
     </Item>
     <Item>
       <Source>tank00.png</Source>
@@ -187,8 +187,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\tank00.xnb</Output>
-      <Time>2015-12-15T21:19:09.9411668+05:30</Time>
+      <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\tank00.xnb</Output>
+      <Time>2015-12-16T01:01:11.4883791-08:00</Time>
     </Item>
     <Item>
       <Source>tank11.png</Source>
@@ -196,8 +196,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\tank11.xnb</Output>
-      <Time>2015-12-15T21:19:09.9567668+05:30</Time>
+      <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\tank11.xnb</Output>
+      <Time>2015-12-16T01:01:11.5040063-08:00</Time>
     </Item>
     <Item>
       <Source>tank22.png</Source>
@@ -205,8 +205,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\tank22.xnb</Output>
-      <Time>2015-12-15T21:19:09.9723669+05:30</Time>
+      <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\tank22.xnb</Output>
+      <Time>2015-12-16T01:01:11.5040063-08:00</Time>
     </Item>
     <Item>
       <Source>tank33.png</Source>
@@ -214,8 +214,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\tank33.xnb</Output>
-      <Time>2015-12-15T21:19:09.9723669+05:30</Time>
+      <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\tank33.xnb</Output>
+      <Time>2015-12-16T01:01:11.5196281-08:00</Time>
     </Item>
     <Item>
       <Source>water11.jpg</Source>
@@ -223,8 +223,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\water11.xnb</Output>
-      <Time>2015-12-15T21:19:09.9879669+05:30</Time>
+      <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\water11.xnb</Output>
+      <Time>2015-12-16T01:01:11.5196281-08:00</Time>
     </Item>
     <Item>
       <Source>water22.png</Source>
@@ -232,8 +232,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\water22.xnb</Output>
-      <Time>2015-12-15T21:19:09.9879669+05:30</Time>
+      <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\water22.xnb</Output>
+      <Time>2015-12-16T01:01:11.5196281-08:00</Time>
     </Item>
     <Item>
       <Source>water33.png</Source>
@@ -241,8 +241,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\water33.xnb</Output>
-      <Time>2015-12-15T21:19:10.0035669+05:30</Time>
+      <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\water33.xnb</Output>
+      <Time>2015-12-16T01:01:11.5196281-08:00</Time>
     </Item>
     <Item>
       <Source>water44.png</Source>
@@ -250,8 +250,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\water44.xnb</Output>
-      <Time>2015-12-15T21:19:10.0035669+05:30</Time>
+      <Output>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\water44.xnb</Output>
+      <Time>2015-12-16T01:01:11.5196281-08:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -260,39 +260,39 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNAContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNAContent\</RootDirectory>
+      <LoggerRootDirectory>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
-        <Value>2011-09-01T16:22:30+05:30</Value>
+        <Value>2011-09-01T17:22:30-07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
-        <Value>2011-09-01T16:22:30+05:30</Value>
+        <Value>2011-09-01T17:22:30-07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
-        <Value>2011-09-01T16:22:30+05:30</Value>
+        <Value>2011-09-01T17:22:30-07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
-        <Value>2011-09-01T16:22:30+05:30</Value>
+        <Value>2011-09-01T17:22:30-07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
-        <Value>2011-09-01T16:22:30+05:30</Value>
+        <Value>2011-09-01T17:22:30-07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
-        <Value>2011-09-01T16:22:30+05:30</Value>
+        <Value>2011-09-01T17:22:30-07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2015-11-13T13:26:57.9493384+05:30</Value>
+        <Value>2015-12-16T01:09:25.7413152-08:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

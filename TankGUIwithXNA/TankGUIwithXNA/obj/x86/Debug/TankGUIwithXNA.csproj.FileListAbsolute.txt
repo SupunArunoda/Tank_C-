@@ -32,3 +32,47 @@ C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithX
 C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\water22.xnb
 C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\water33.xnb
 C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\water44.xnb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\background11.xnb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\background22.xnb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\background33.xnb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\background44.xnb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\brick11.xnb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\brick22.xnb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\brick33.xnb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\brick44.xnb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\coin11.xnb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\coin22.xnb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\coin33.xnb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\coin44.xnb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\life11.xnb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\life22.xnb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\life33.xnb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\life44.xnb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\stone11.xnb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\stone22.xnb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\stone33.xnb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\stone44.xnb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\tank00.xnb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\tank11.xnb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\tank22.xnb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\tank33.xnb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\water11.xnb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\water22.xnb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\water33.xnb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Content\water44.xnb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\TankGUIwithXNA.exe
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\TankGUIwithXNA.pdb
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\obj\x86\Debug\TankGUIwithXNA.csprojResolveAssemblyReference.cache
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\obj\x86\Debug\TankGUIwithXNA.exe
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNA\obj\x86\Debug\TankGUIwithXNA.pdb

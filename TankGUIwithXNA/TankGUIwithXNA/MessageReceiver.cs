@@ -41,6 +41,7 @@ namespace TankGUIwithXNA
                             // Translate data bytes to a ASCII string.
                             data = System.Text.Encoding.ASCII.GetString(bytes, 0, i);  //Encode Byte into a String
                             String[] spltted = data.Split(new Char[] { ':' });
+                            
                             Console.WriteLine(data);
                             msghandler.handleData(spltted);
                             //handler2.handleCommand(data);

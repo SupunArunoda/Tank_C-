@@ -45,7 +45,7 @@ namespace TankGUIwithXNA
         GraphicsDevice device;
 
         ///<Texture variables for game images.....>
-        Texture2D backgroundTexture1, backgroundTexture2, backgroundTexture3, backgroundTexture4;
+        Texture2D backgroundTexture1, backgroundTexture2, backgroundTexture3, backgroundTexture4, backgroundTexture5;
         Texture2D stoneTexture1, stoneTexture2, stoneTexture3, stoneTexture4;
         Texture2D waterTexture1, waterTexture2, waterTexture3, waterTexture4;
         Texture2D brickTexture1, brickTexture2, brickTexture3, brickTexture4;
@@ -111,6 +111,7 @@ namespace TankGUIwithXNA
             backgroundTexture2 = Content.Load<Texture2D>("background22");
             backgroundTexture3 = Content.Load<Texture2D>("background33");
             backgroundTexture4 = Content.Load<Texture2D>("background44");
+           // backgroundTexture5 = Content.Load<Texture2D>("background55");
             stoneTexture1 = Content.Load<Texture2D>("stone11");
             stoneTexture2 = Content.Load<Texture2D>("stone22");
             stoneTexture3 = Content.Load<Texture2D>("stone33");
@@ -162,6 +163,7 @@ namespace TankGUIwithXNA
         {
             GraphicsDevice.Clear(Color.Transparent);
             spriteBatch.Begin();
+           
             DrawMap();
             SetUpPlayers();
             updateBrick();
@@ -194,7 +196,7 @@ namespace TankGUIwithXNA
         {
 
 
-            gameScreen = new Rectangle(10, 10, screenWidth * 3 / 5, screenHeight - 20);
+            gameScreen = new Rectangle(20, 20, screenWidth * 3 / 5, screenHeight - 20);
             spriteBatch.Draw(backgroundTexture4, gameScreen, Color.White);//change background texture number here..
 
 
@@ -202,53 +204,62 @@ namespace TankGUIwithXNA
             for (int i = 0; i < MessageHandler.mapSize; i++)
                 for (int j = 0; j < MessageHandler.mapSize; j++)
                 {
-                    switch (gameMatrix[i, j])
-                    {
-
-                        case "s":
+                    Console.WriteLine(gameMatrix[i,j]);
+                    
+                    
+                        if(gameMatrix[i, j]=="s")
                             {
                                 stoneBlock = new Rectangle(blockWidth * j + 10, blockHeight * i + 10, blockWidth, blockHeight);
                                 spriteBatch.Draw(stoneTexture2, stoneBlock, Color.White);//change stone texture number here..
                                 continue;
                             }
-                        case "w":
+                        else if(gameMatrix[i, j]=="w")
                             {
                                 waterBlock = new Rectangle(blockWidth * j + 10, blockHeight * i + 10, blockWidth, blockHeight);
                                 spriteBatch.Draw(waterTexture4, waterBlock, Color.White);//change water texture number here..
                                 continue;
                             }
 
-                        case "p0":
+                        else if (gameMatrix[i, j] == "p0")
+                    
                             {
                                 tankBlock0 = new Rectangle(blockWidth * j + 10, blockHeight * i + 10, blockWidth, blockHeight);
                                 spriteBatch.Draw(tankTexture0, tankBlock0, Color.White);
                                 continue;
                             }
 
-                        case "p1":
+                        else if (gameMatrix[i, j] == "p1")
+                    
                             {
                                 tankBlock1 = new Rectangle(blockWidth * j + 10, blockHeight * i + 10, blockWidth, blockHeight);
                                 spriteBatch.Draw(tankTexture1, tankBlock1, Color.White);
                                 continue;
                             }
 
-                        case "p2":
+                        else if (gameMatrix[i, j] == "p2")
+                 
                             {
                                 tankBlock2 = new Rectangle(blockWidth * j + 10, blockHeight * i + 10, blockWidth, blockHeight);
                                 spriteBatch.Draw(tankTexture2, tankBlock2, Color.White);
                                 continue;
                             }
 
-                        case "p3":
+                        else if (gameMatrix[i, j] == "p3")
+                 
                             {
                                 tankBlock3 = new Rectangle(blockWidth * j + 10, blockHeight * i + 10, blockWidth, blockHeight);
                                 spriteBatch.Draw(tankTexture3, tankBlock3, Color.White);
                                 continue;
-                            }
-                    }
+                            
+                             }
                 }
         }
 
+        public static void setGameMatrix(String[,] matrix)
+        {
+            gameMatrix = matrix;
+
+        }
 
 
 

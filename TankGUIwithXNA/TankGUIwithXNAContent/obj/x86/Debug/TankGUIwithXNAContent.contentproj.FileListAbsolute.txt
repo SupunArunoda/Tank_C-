@@ -1,1 +1,2 @@
 C:\Users\Supun\Documents\Visual Studio 2013\Projects\TankGUIwithXNA\TankGUIwithXNA\TankGUIwithXNAContent\obj\x86\Debug\TankGUIwithXNAContent.contentprojResolveAssemblyReference.cache
+D:\game_development\tankGame\Tank_C-\TankGUIwithXNA\TankGUIwithXNAContent\obj\x86\Debug\TankGUIwithXNAContent.contentprojResolveAssemblyReference.cache
